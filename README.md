@@ -106,7 +106,7 @@ Project/
 
 ## Author
 
-**[Your Name]**
+**[Eyad Hossni Nada]**
 [LinkedIn](https://www.linkedin.com/in/eyad-hossni-nada/) · [GitHub](https://github.com/EyadHossni)
 
 ## Acknowledgments
