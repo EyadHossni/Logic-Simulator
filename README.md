@@ -2,12 +2,12 @@
 
 An interactive digital logic circuit designer and simulator written in C++. Build circuits visually from logic gates, switches, and LEDs, wire them together, simulate their behavior in real time, and automatically generate truth tables.
 
-<img width="1665" height="966" alt="Sample 1 - Design" src="https://github.com/user-attachments/assets/c9e9a498-82e1-4ffd-abf1-18e15bec0bf2" />
-<img width="1665" height="966" alt="Sample 1 - Simulation" src="https://github.com/user-attachments/assets/85c2acf1-338e-4a03-9534-f7fb4f06d5b6" />
-<img width="1665" height="966" alt="Sample 2 - Design" src="https://github.com/user-attachments/assets/2d727bc9-0094-498d-a176-8823e44ee316" />
-<img width="1665" height="966" alt="Sample 2 - Simulation" src="https://github.com/user-attachments/assets/92a912e5-6090-42ed-9fcb-9d8d55e43c40" />
-<img width="1665" height="966" alt="Sample 3 - Design" src="https://github.com/user-attachments/assets/5337598e-2fea-4210-98bc-7fd94734536c" />
-<img width="1665" height="966" alt="Sample 3 - Simulation" src="https://github.com/user-attachments/assets/6ca39bf1-0f01-499d-a5b5-53b1da14feb4" />
+<img width="416" height="241" alt="Sample 1 - Design" src="https://github.com/user-attachments/assets/c9e9a498-82e1-4ffd-abf1-18e15bec0bf2" />
+<img width="416" height="241" alt="Sample 1 - Simulation" src="https://github.com/user-attachments/assets/85c2acf1-338e-4a03-9534-f7fb4f06d5b6" />
+<img width="416" height="241" alt="Sample 2 - Design" src="https://github.com/user-attachments/assets/2d727bc9-0094-498d-a176-8823e44ee316" />
+<img width="416" height="241" alt="Sample 2 - Simulation" src="https://github.com/user-attachments/assets/92a912e5-6090-42ed-9fcb-9d8d55e43c40" />
+<img width="416" height="241" alt="Sample 3 - Design" src="https://github.com/user-attachments/assets/5337598e-2fea-4210-98bc-7fd94734536c" />
+<img width="416" height="241" alt="Sample 3 - Simulation" src="https://github.com/user-attachments/assets/6ca39bf1-0f01-499d-a5b5-53b1da14feb4" />
 
 ## Overview
 
